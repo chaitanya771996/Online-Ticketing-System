@@ -89,6 +89,7 @@
                                                                                 <option value="Regular">Regular</option>
                                                                                 <option value="Early Bird">Early Bird</option>
                                                                             </select>
+                                                                            
                                                                         </div>
 
                                                                         <div class="mb-3">
